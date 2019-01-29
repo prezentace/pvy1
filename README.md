@@ -2,3 +2,4 @@
 
 ## Složka git 
 * tutorial o využití verzovacího systému git a cloudové služby GitHub
+* další bod
